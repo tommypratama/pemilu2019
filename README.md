@@ -1,2 +1,2 @@
-# pemilu2019
+# Pemilu2019
 Repository Pemilihan Umum Tahun 2019
